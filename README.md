@@ -1,4 +1,4 @@
-# Machine Learning Labs: A Coursera-Inspired Project
+# coursera ML Projects: A Coursera-Inspired Project
 This project is inspired by the lab exercises from the Coursera Machine Learning Specialization by DeepLearning.AI.
 
 This repository contains projects inspired by the labs and exercises from the [Coursera Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) by DeepLearning.AI. These projects are my interpretations, experiments, and implementations of the concepts learned during the course.
